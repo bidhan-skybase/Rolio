@@ -1,0 +1,3 @@
+[submodule "Rolio-frontend"]
+	path = Rolio-frontend
+	url = git@github.com:bidhan-skybase/Rolio-frontend.git
