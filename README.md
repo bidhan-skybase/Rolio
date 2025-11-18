@@ -1,7 +1,9 @@
-# Job Tracker
+<img width="1470" height="829" alt="image" src="https://github.com/user-attachments/assets/4d6a6965-53c1-4b95-8af0-e533f9ff3d2d" /># Rolio
 
 ## Project Overview
-The Job Tracker is a comprehensive application designed to help users efficiently manage and monitor their job application progress. In today's competitive job market, it's easy to lose track of applications, interviews, and follow-ups. This tool provides a centralized platform to keep all job-related activities organized, ensuring users never miss an important step in their job search journey.
+Rolio is a comprehensive application designed to help users efficiently manage and monitor their job application progress. In today's competitive job market, it's easy to lose track of applications, interviews, and follow-ups. This tool provides a centralized platform to keep all job-related activities organized, ensuring users never miss an important step in their job search journey.
+
+Link - https://rolio-frontend.vercel.app/auth
 
 ## Features
 - **Application Tracking:** Log and track the status of each job application (e.g., Applied, Interview, Offer, Rejected).
@@ -19,6 +21,7 @@ The Job Tracker is a comprehensive application designed to help users efficientl
 
 ### Backend
 - **Framework:** FastAPI
+- **Language:** Python
 - **Database:** PostgreSQL
 - **Email Service:** Brevo (for OTP)
 - **Hosting:** Render
@@ -48,7 +51,13 @@ To get a local copy up and running, follow these simple steps.
 - The backend is deployed on **Render**.
 
 ## Screenshots
-*(Add screenshots of the application here to showcase its features and UI)*
+<img width="1470" height="829" alt="image" src="https://github.com/user-attachments/assets/3f485af0-60a0-46ac-b08f-76ba54c8888e" />
+
+<img width="1470" height="833" alt="image" src="https://github.com/user-attachments/assets/607c48aa-c801-4edd-8856-695945f41914" />
+
+<img width="1470" height="831" alt="image" src="https://github.com/user-attachments/assets/8b162ae6-a187-40f5-8c2f-a812110bfbc4" />
+
+
 
 ## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
