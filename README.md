@@ -1,4 +1,6 @@
-<img width="1470" height="829" alt="image" src="https://github.com/user-attachments/assets/4d6a6965-53c1-4b95-8af0-e533f9ff3d2d" /># Rolio
+# Rolio
+
+<img width="1470" height="833" alt="image" src="https://github.com/user-attachments/assets/607c48aa-c801-4edd-8856-695945f41914" />
 
 ## Project Overview
 Rolio is a comprehensive application designed to help users efficiently manage and monitor their job application progress. In today's competitive job market, it's easy to lose track of applications, interviews, and follow-ups. This tool provides a centralized platform to keep all job-related activities organized, ensuring users never miss an important step in their job search journey.
